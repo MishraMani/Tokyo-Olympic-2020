@@ -4,7 +4,7 @@
                 linear-gradient(to left, #fff200, #00838d 20%, #0055B6 25%);
     position: relative;
     padding: 0 12px;
-    height: 50px;
+    height: 150px;
     display: flex;
     align-items: center;   
 }
@@ -31,7 +31,7 @@
     background: url("https://2.bp.blogspot.com/-6jhtmG8dtWs/XoxVhFFh7NI/AAAAAAAAEcw/rImO40ZKNQQ2LjJ0OTHfJGDMqA0Fc--GwCNcBGAsYHQ/s1600/IMG_20171012_184958%2Bcopy.png") right 16px center no-repeat,
                 linear-gradient(to left, #fff200, #00838d 20%, #0055B6 25%);
     padding: 0 12px;
-    height: 50px;
+    height: 150px;
     display: flex;
     align-items: center;
 }
@@ -72,7 +72,7 @@
                 linear-gradient(to left, #fff200, #00838d 20%, #0055B6 25%);
     display: flex;
     padding: 0 12px;
-    height: 50px;
+    height: 150px;
     align-items: center;
 }
 
