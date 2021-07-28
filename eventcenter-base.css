@@ -26,7 +26,6 @@ body {
     font-size: 16px;
 	margin: 0;
 	padding: 0;
-background:url(https://1.bp.blogspot.com/-Ez8QWo6bu7I/YP6cuUZNEBI/AAAAAAAAFlg/PEsWDm1gT3U-CsryLC85BK329iRBBVHjgCNcBGAsYHQ/s0/IMG_20171012_184958%2Bcopy.png);
 }
 
 header:before, header:after,
@@ -177,9 +176,9 @@ header {
 }
 
 button {
-    background: url(../img/menu-open.png) no-repeat 50%;
+    background: url(https://assets.sports.gracenote.com/opt2020/img/menu-open.png) no-repeat 50%;
 }
 
 button.is-open {
-    background: url(../img/menu-close.png) no-repeat 50%;
+    background: url(https://assets.sports.gracenote.com/opt2020/img/menu-close.png) no-repeat 50%;
 }
