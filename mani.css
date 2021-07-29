@@ -1,0 +1,23 @@
+ .blinking{
+    animation: blinkingText 1s infinite;
+            font-family: 'Noto Serif', serif;
+            font-weight:bold;
+            text-align: left;
+            font-size: 25px;
+        }
+    @keyframes blinkingText{
+     0%{     color:#fc6d00;}
+    20%{    color:#ffffff;}
+    40%{    color:#000000;}
+    60%{    color:#e60073;}
+    80%{    color:#23bba6;}
+    100%{   color:red;}
+}
+
+
+body {
+
+  
+ background:url("https://1.bp.blogspot.com/-TnoX646B_io/YQJKZ2tArbI/AAAAAAAAFls/BFlnj4mDBxQ1JPYnbPJzjAbLz_8xqI8QgCNcBGAsYHQ/s0/Untitled-1%2Bcopy.png");
+  opacity: 0.8;
+}
