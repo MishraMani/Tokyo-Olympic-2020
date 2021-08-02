@@ -3,7 +3,7 @@
             font-family: 'Noto Serif', serif;
             font-weight:bold;
             text-align: left;
-            font-size: 22px;
+            font-size: 20px;
         }
     @keyframes blinkingText{
      0%{     color:#fc6d00;}
@@ -15,11 +15,11 @@
 }
 .OlympicHedrBtn{
    border-radius: 8px;  padding: 10px 23px; text-align: center; text-decoration: none; display: inline-block;font-family: 'Noto Serif', serif;font-weight:bold;text-align: left;
-font-size: 22px; margin: 4px 2px; background-color: #23bba6;border: none;color: #e60073;padding: 12px 30px;
+font-size: 20px; margin: 4px 2px; background-color: #23bba6;border: none;color: #e60073;padding: 12px 30px;
 }
 .OlympicSubBtn{
    border-radius: 8px;  padding: 10px 23px; text-align: center; text-decoration: none; display: inline-block;font-family: 'Noto Serif', serif;font-weight:bold;text-align: left;
-font-size: 18px; margin: 4px 2px; background-color: #23bba6;border: none;color: #e60073;padding: 12px 30px;
+font-size: 15px; margin: 4px 2px; background-color: #23bba6;border: none;color: #e60073;padding: 12px 30px;
 }
 
 body {
