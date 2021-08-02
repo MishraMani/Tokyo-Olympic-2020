@@ -13,6 +13,8 @@
     80%{    color:#23bba6;}
     100%{   color:red;}
 }
+#toc_container{padding:10px;margin-bottom:1em;width:auto;}#toc_container.toc_light_blue{background:#edf6ff}#toc_container.toc_white{background:#fff}#toc_container.toc_black{background:#000}
+
 .OlympicHedrBtn{
    border-radius: 8px;  padding: 10px 23px; text-align: center; text-decoration: none; display: inline-block;font-family: 'Noto Serif', serif;font-weight:bold;text-align: left;
 font-size: 20px; margin: 4px 2px; background-color: #23bba6;border: none;color: #e60073;padding: 12px 30px;
