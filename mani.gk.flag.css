@@ -64,8 +64,8 @@
 
 .manimishra-icon {
   position: relative;
-  width: 10.33333em;
-  line-height: 3em;
+  width: 5.33333em;
+  line-height: 2em;
 }
 
 .manimishra-icon:before {
@@ -73,7 +73,7 @@
 }
 
 .manimishra-icon.manimishra-icon-squared {
-  width: 3em;
+  width: 5em;
 }
 
 
@@ -103,7 +103,7 @@
 
 .gkga-icon {
   position: relative;
-  width: 15.33333em;
+  width: 5.33333em;
   line-height: 6em;
 }
 
@@ -112,7 +112,7 @@
 }
 
 .gkga-icon.manimishra-icon-squared {
-  width: 1em;
+  width: 5em;
 }
 
 .manimishra-icon-mani {
